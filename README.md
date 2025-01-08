@@ -4,7 +4,7 @@
 
 **Get in touch:**
 
-[![Telegram Badge](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/0xcr5sh)](https://t.me/0xcra5hs) 
+[![Telegram Badge](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/cra5hs)](https://t.me/cra5hs) 
 [![Github Badge](https://img.shields.io/badge/-Cra5hs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/0xcra5hs/)](https://www.github.com/0xcra5hs/)
 
 I’m a software developer for 8+ years and currently focuses on development & Blockchain development. 

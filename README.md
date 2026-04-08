@@ -1,34 +1,66 @@
-### Hi there 👋, I'm Duong Nguyen 👨🏻‍💻
+# Duong Nguyen — Senior Software Engineer & Blockchain Architect
 
-#### Software Developer
+[![Telegram](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white)](https://t.me/cra5hs)
+[![GitHub](https://img.shields.io/badge/-0xcra5hs-grey?style=flat&logo=github&logoColor=white)](https://www.github.com/0xcra5hs/)
 
-**Get in touch:**
+## About
 
-[![Telegram Badge](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/cra5hs)](https://t.me/cra5hs) 
-[![Github Badge](https://img.shields.io/badge/-Cra5hs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/0xcra5hs/)](https://www.github.com/0xcra5hs/)
+Senior Software Engineer with **15+ years** of hands-on experience designing, building, and shipping production systems at scale. I specialize in full-stack development, mobile engineering, and blockchain architecture — with deep expertise spanning enterprise backends, cross-platform mobile applications, and decentralized protocols.
 
-I’m a software developer for 8+ years and currently focuses on development & Blockchain development. 
-Working as a full-stack developer. 
-I’ve involved with Blockchain technologies when I did some projects like building EOSIO sister chains, NFT token, DEX, crypto wallet app, smart contract for game, and other kinds on EOSIO. 
-Now I’m also responsible for developing smart contracts, provide assistance with testing, debugging, and deployment for decentralized applications running on EOSIO and related Blockchains.
+Over the past decade and a half, I’ve architected and delivered end-to-end solutions across industries — from high-throughput enterprise platforms to on-chain decentralized applications. My work in the blockchain space includes building EOSIO sister chains, designing and deploying NFT standards, decentralized exchanges (DEX), non-custodial crypto wallets, on-chain game economies, and complex smart contract systems. I lead the full lifecycle: architecture, implementation, testing, security auditing, and production deployment.
 
+## Core Expertise
 
-Skills: 
-- Flutter (2 year exp).
-- Java (8 year exp).
-- IOS-Native (6 year exp).
-- C#.NET (8 year exp).
-- Node.js (2 year exp).
-- C++ EOSIO (2 year exp).
+### Languages & Runtimes
+`Java` `Kotlin` `C#` `C++` `C` `Swift` `Objective-C` `Dart` `TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `Ruby` `PHP` `SQL` `Bash` `Lua` `Haskell`
 
+### Backend & Enterprise Systems
+- **Java / Kotlin** — 15 years. Enterprise-grade distributed systems, microservices architecture, high-concurrency backends, JVM performance tuning.
+- **C# / .NET** — 12 years. Large-scale enterprise applications, REST/gRPC API design, Azure cloud-native services, domain-driven design.
+- **Go** — Systems tooling, high-performance networking services, CLI tools.
+- **Python** — Automation, data pipelines, scripting, ML/AI integration.
+- **Node.js / TypeScript** — 6 years. Event-driven microservices, real-time systems, serverless architectures.
 
-Database design: SQL Server, Postgresql
+### Mobile Engineering
+- **iOS Native (Swift / Objective-C)** — 10 years. Published App Store applications, UIKit & SwiftUI, Core Data, performance profiling, deep platform integration.
+- **Flutter / Dart** — 5 years. Cross-platform production apps, custom rendering pipelines, platform channel integrations, state management at scale.
+- **Android Native (Java / Kotlin)** — Native SDK integration, Jetpack Compose, multi-module architecture.
 
-- 🌱 I’m currently learning more about Blockchain.
-- 👯 I’m looking to collaborate on remote and freelancer job which using Flutter, EOSIO
-- ⚡ Fun fact: Working with passion.
+### Blockchain & Web3
+- **C++ / EOSIO** — 5 years. Smart contract development, custom chain deployment, on-chain governance, token standards (fungible & NFT), DEX protocol design.
+- **Solidity / EVM** — Ethereum-compatible smart contracts, DeFi primitives, security-focused contract design.
+- **Rust** — Solana programs, near-metal performance for on-chain computation.
 
+### Data & Infrastructure
+- **Databases:** SQL Server, PostgreSQL, MongoDB, Redis, Cassandra, Elasticsearch — schema design, query optimization, replication, migration strategies.
+- **Orchestration & Compute:** Kubernetes (EKS/AKS/GKE), Helm, Istio, Docker Swarm, Nomad.
+- **Data & Workflow:** Apache Airflow, Kafka, RabbitMQ, Spark, Flink — ETL pipelines, stream processing, workflow orchestration.
+- **Identity & Access:** Keycloak, OAuth 2.0 / OIDC, SAML, LDAP, RBAC/ABAC policy design, SSO integration.
+- **Observability:** Prometheus, Grafana, ELK Stack, Jaeger, OpenTelemetry, PagerDuty.
+- **CI/CD & GitOps:** Jenkins, GitHub Actions, GitLab CI, ArgoCD, FluxCD, Tekton.
+- **Cloud & IaC:** AWS, Azure, GCP, Terraform, Pulumi, CloudFormation, Ansible.
+- **Architecture:** Microservices, event-driven systems, CQRS/ES, distributed caching, service mesh, domain-driven design.
+
+## Open Source & Community
+
+I'm a strong advocate for open-source software and actively contribute to the ecosystem. A non-exhaustive list of areas I've contributed to or maintain projects in:
+
+- **Blockchain tooling** — EOSIO SDK extensions, smart contract libraries, chain deployment utilities, block explorer plugins.
+- **Mobile frameworks** — Flutter packages, iOS open-source libraries, cross-platform bridge modules.
+- **Developer experience** — CLI tools, code generators, linters, CI/CD pipeline templates, boilerplate starters.
+- **Infrastructure** — Kubernetes operators, Helm charts, Terraform providers/modules, Airflow DAG libraries, monitoring dashboards.
+- **Identity & Auth** — Keycloak SPIs, custom authenticators, OIDC client libraries, SSO integration modules.
+- **Data engineering** — Kafka connectors, Spark utilities, ETL framework extensions.
+- **Security** — Smart contract audit toolkits, static analysis integrations, vulnerability disclosure contributions.
+
+I believe the best engineers give back more than they take. Open source sharpened my craft — reviewing code across thousands of repositories, collaborating with maintainers worldwide, and shipping libraries used in production by teams I'll never meet. That feedback loop is irreplaceable.
+
+## Philosophy
+
+Ship code that lasts. I bring the rigor of enterprise engineering to fast-moving domains like Web3, and the creative urgency of startup culture to large-scale systems. Language-agnostic by principle — I pick the right tool for the problem, not the problem for the tool.
+
+---
 
 ```
-Donate: 0x843C9034e9cEcCEc85ceCC1B87dB3e260e9ea5eE (Matic)
+Donate: 0x843C9034e9cEcCEc85ceCC1B87dB3e260e9ea5eE (Polygon/Matic)
 ```

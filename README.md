@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <div align="center">
-=======
-# 0xcra5hs — Senior Software Engineer & Blockchain Architect
->>>>>>> 51485d918c809d66f8ea4da3ba6dd9fa94a514d3
 
 # Hey, I’m Duong Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -11,13 +7,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0xcra5hs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cra5hs)
 [![GitHub](https://img.shields.io/badge/GitHub-0xcra5hs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xcra5hs)
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xcra5hs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcra5hs&theme=tokyonight&hide_border=true" width="48%" />
 
-<<<<<<< HEAD
 </div>
-=======
-## Core Expertise
 
 ### Languages & Runtimes
 `Java` `Kotlin` `C#` `C++`  `Swift` `Objective-C` `Dart` `TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `Ruby` `PHP` `SQL` `Bash` 

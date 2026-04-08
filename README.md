@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <div align="center">
+=======
+# 0xcra5hs — Senior Software Engineer & Blockchain Architect
+>>>>>>> 51485d918c809d66f8ea4da3ba6dd9fa94a514d3
 
 # Hey, I’m Duong Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -10,7 +14,59 @@
 <img src="https://github-readme-stats.vercel.app/api?username=0xcra5hs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcra5hs&theme=tokyonight&hide_border=true" width="48%" />
 
+<<<<<<< HEAD
 </div>
+=======
+## Core Expertise
+
+### Languages & Runtimes
+`Java` `Kotlin` `C#` `C++`  `Swift` `Objective-C` `Dart` `TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `Ruby` `PHP` `SQL` `Bash` 
+
+### Backend & Enterprise Systems
+- **Java / Kotlin** — 15 years. Enterprise-grade distributed systems, microservices architecture, high-concurrency backends, JVM performance tuning.
+- **C# / .NET** — 12 years. Large-scale enterprise applications, REST/gRPC API design, Azure cloud-native services, domain-driven design.
+- **Go** — Systems tooling, high-performance networking services, CLI tools.
+- **Python** — Automation, data pipelines, scripting, ML/AI integration.
+- **Node.js / TypeScript** — 6 years. Event-driven microservices, real-time systems, serverless architectures.
+
+### Mobile Engineering
+- **iOS Native (Swift / Objective-C)** — 10 years. Published App Store applications, UIKit & SwiftUI, Core Data, performance profiling, deep platform integration.
+- **Flutter / Dart** — 5 years. Cross-platform production apps, custom rendering pipelines, platform channel integrations, state management at scale.
+- **Android Native (Java / Kotlin)** — Native SDK integration, Jetpack Compose, multi-module architecture.
+
+### Blockchain & Web3
+- **C++ / EOSIO** — 5 years. Smart contract development, custom chain deployment, on-chain governance, token standards (fungible & NFT), DEX protocol design.
+- **Solidity / EVM** — Ethereum-compatible smart contracts, DeFi primitives, security-focused contract design.
+- **Rust** — Solana programs, near-metal performance for on-chain computation.
+
+### Data & Infrastructure
+- **Databases:** SQL Server, PostgreSQL, MongoDB, Redis, Cassandra, Elasticsearch — schema design, query optimization, replication, migration strategies.
+- **Orchestration & Compute:** Kubernetes (EKS/AKS/GKE), Helm, Istio, Docker Swarm, Nomad.
+- **Data & Workflow:** Apache Airflow, Kafka, RabbitMQ, Spark, Flink — ETL pipelines, stream processing, workflow orchestration.
+- **Identity & Access:** Keycloak, OAuth 2.0 / OIDC, SAML, LDAP, RBAC/ABAC policy design, SSO integration.
+- **Observability:** Prometheus, Grafana, ELK Stack, Jaeger, OpenTelemetry, PagerDuty.
+- **CI/CD & GitOps:** Jenkins, GitHub Actions, GitLab CI, ArgoCD, FluxCD, Tekton.
+- **Cloud & IaC:** AWS, Azure, GCP, Terraform, Pulumi, CloudFormation, Ansible.
+- **Architecture:** Microservices, event-driven systems, CQRS/ES, distributed caching, service mesh, domain-driven design.
+
+## Open Source & Community
+
+I'm a strong advocate for open-source software and actively contribute to the ecosystem. A non-exhaustive list of areas I've contributed to or maintain projects in:
+
+- **Blockchain tooling** — EOSIO SDK extensions, smart contract libraries, chain deployment utilities, block explorer plugins.
+- **Mobile frameworks** — Flutter packages, iOS open-source libraries, cross-platform bridge modules.
+- **Developer experience** — CLI tools, code generators, linters, CI/CD pipeline templates, boilerplate starters.
+- **Infrastructure** — Kubernetes operators, Helm charts, Terraform providers/modules, Airflow DAG libraries, monitoring dashboards.
+- **Identity & Auth** — Keycloak SPIs, custom authenticators, OIDC client libraries, SSO integration modules.
+- **Data engineering** — Kafka connectors, Spark utilities, ETL framework extensions.
+- **Security** — Smart contract audit toolkits, static analysis integrations, vulnerability disclosure contributions.
+
+I believe the best engineers give back more than they take. Open source sharpened my craft — reviewing code across thousands of repositories, collaborating with maintainers worldwide, and shipping libraries used in production by teams I'll never meet. That feedback loop is irreplaceable.
+
+## Philosophy
+
+Ship code that lasts. I bring the rigor of enterprise engineering to fast-moving domains like Web3, and the creative urgency of startup culture to large-scale systems. Language-agnostic by principle — I pick the right tool for the problem, not the problem for the tool.
+>>>>>>> 51485d918c809d66f8ea4da3ba6dd9fa94a514d3
 
 ---
 

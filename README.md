@@ -1,4 +1,4 @@
-# Duong Nguyen — Senior Software Engineer & Blockchain Architect
+# 0xcra5hs — Senior Software Engineer & Blockchain Architect
 
 [![Telegram](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white)](https://t.me/cra5hs)
 [![GitHub](https://img.shields.io/badge/-0xcra5hs-grey?style=flat&logo=github&logoColor=white)](https://www.github.com/0xcra5hs/)
@@ -12,7 +12,7 @@ Over the past decade and a half, I’ve architected and delivered end-to-end sol
 ## Core Expertise
 
 ### Languages & Runtimes
-`Java` `Kotlin` `C#` `C++` `C` `Swift` `Objective-C` `Dart` `TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `Ruby` `PHP` `SQL` `Bash` `Lua` `Haskell`
+`Java` `Kotlin` `C#` `C++`  `Swift` `Objective-C` `Dart` `TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `Ruby` `PHP` `SQL` `Bash` 
 
 ### Backend & Enterprise Systems
 - **Java / Kotlin** — 15 years. Enterprise-grade distributed systems, microservices architecture, high-concurrency backends, JVM performance tuning.
